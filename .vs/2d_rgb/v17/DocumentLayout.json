@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity\\project\\2d_rgb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|E:\\unity\\project\\2d_rgb\\assets\\scripts\\controller\\skillcontroller\\cloneskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\skillcontroller\\cloneskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|E:\\unity\\project\\2d_rgb\\assets\\scripts\\saveandload\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveandload\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|E:\\unity\\project\\2d_rgb\\assets\\scripts\\saveandload\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveandload\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|e:\\unity\\project\\2d_rgb\\assets\\scripts\\saveandload\\filedatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveandload\\filedatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|E:\\unity\\project\\2d_rgb\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|E:\\unity\\project\\2d_rgb\\assets\\scripts\\itemandinventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemandinventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|E:\\unity\\project\\2d_rgb\\assets\\scripts\\ui\\ui_itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|E:\\unity\\project\\2d_rgb\\assets\\scripts\\ui\\ui_skilltreeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_skilltreeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|E:\\unity\\project\\2d_rgb\\assets\\scripts\\itemandinventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A957CE-1061-03A7-3DF6-6B0100027A49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemandinventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileDataHandler.cs",
+              "DocumentMoniker": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\SaveAndLoad\\FileDataHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveAndLoad\\FileDataHandler.cs",
+              "ToolTip": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\SaveAndLoad\\FileDataHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveAndLoad\\FileDataHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:44:15.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\SaveAndLoad\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveAndLoad\\SaveManager.cs",
+              "ToolTip": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\SaveAndLoad\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveAndLoad\\SaveManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:43:58.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:42:44.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UI_SkillTreeSlot.cs",
+              "DocumentMoniker": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\UI\\UI_SkillTreeSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_SkillTreeSlot.cs",
+              "ToolTip": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\UI\\UI_SkillTreeSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_SkillTreeSlot.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowG0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:40:54.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UI_ItemSlot.cs",
+              "DocumentMoniker": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\UI\\UI_ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_ItemSlot.cs",
+              "ToolTip": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\UI\\UI_ItemSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_ItemSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:31:50.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\SaveAndLoad\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveAndLoad\\GameData.cs",
+              "ToolTip": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\SaveAndLoad\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveAndLoad\\GameData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:18:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CloneSkillController.cs",
+              "DocumentMoniker": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\Controller\\SkillController\\CloneSkillController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\SkillController\\CloneSkillController.cs",
+              "ToolTip": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\Controller\\SkillController\\CloneSkillController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\SkillController\\CloneSkillController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:58:37.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\ItemAndInventory\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemAndInventory\\InventoryItem.cs",
+              "ToolTip": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\ItemAndInventory\\InventoryItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemAndInventory\\InventoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:48:57.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\ItemAndInventory\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemAndInventory\\Inventory.cs",
+              "ToolTip": "E:\\unity\\project\\2d_rgb\\Assets\\Scripts\\ItemAndInventory\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemAndInventory\\Inventory.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:44:59.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

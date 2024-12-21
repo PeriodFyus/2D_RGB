@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity\\object\\rougelike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D4292A-F027-CBA0-1C92-FA11720A434C}|Assembly-CSharp.csproj|e:\\unity\\object\\rougelike\\assets\\scripts\\itemandinventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D4292A-F027-CBA0-1C92-FA11720A434C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemandinventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D4292A-F027-CBA0-1C92-FA11720A434C}|Assembly-CSharp.csproj|e:\\unity\\object\\rougelike\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D4292A-F027-CBA0-1C92-FA11720A434C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D4292A-F027-CBA0-1C92-FA11720A434C}|Assembly-CSharp.csproj|e:\\unity\\object\\rougelike\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D4292A-F027-CBA0-1C92-FA11720A434C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D4292A-F027-CBA0-1C92-FA11720A434C}|Assembly-CSharp.csproj|e:\\unity\\object\\rougelike\\assets\\scripts\\enemy\\slime\\enemyslime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D4292A-F027-CBA0-1C92-FA11720A434C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\slime\\enemyslime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "E:\\unity\\object\\rougelike\\Assets\\Scripts\\ItemAndInventory\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemAndInventory\\Inventory.cs",
+              "ToolTip": "E:\\unity\\object\\rougelike\\Assets\\Scripts\\ItemAndInventory\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemAndInventory\\Inventory.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:33:51.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\unity\\object\\rougelike\\Assets\\Scripts\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity.cs",
+              "ToolTip": "E:\\unity\\object\\rougelike\\Assets\\Scripts\\Entity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAzwDwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:28:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\unity\\object\\rougelike\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "E:\\unity\\object\\rougelike\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAwI4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:24:33.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemySlime.cs",
+              "DocumentMoniker": "E:\\unity\\object\\rougelike\\Assets\\Scripts\\Enemy\\Slime\\EnemySlime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Slime\\EnemySlime.cs",
+              "ToolTip": "E:\\unity\\object\\rougelike\\Assets\\Scripts\\Enemy\\Slime\\EnemySlime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Slime\\EnemySlime.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFcAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:19:43.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
